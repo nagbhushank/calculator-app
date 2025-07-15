@@ -1,0 +1,34 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "This is a calculator application",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.2.0",
+    "@mui/styled-engine-sc": "^7.2.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "styled-components": "^6.1.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nagbhushank/calculator-app.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "bugs": {
+    "url": "https://github.com/nagbhushank/calculator-app/issues"
+  },
+  "homepage": "https://github.com/nagbhushank/calculator-app#readme"
+}
